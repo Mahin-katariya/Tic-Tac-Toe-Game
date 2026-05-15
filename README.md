@@ -1,5 +1,8 @@
 # Tic-Tac-Toe
 
+## Game Link:-
+[TicTacToe-Game]([https://example.com](https://mahin-katariya.github.io/tic-tac-toe/))
+
 ## Core Logic Flow
 
 The game operates on a unidirectional data flow, ensuring the UI stays perfectly in sync with the game state:
