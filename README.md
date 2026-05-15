@@ -1,7 +1,7 @@
 # Tic-Tac-Toe
 
 ## Game Link:-
-[TicTacToe-Game]([https://example.com](https://mahin-katariya.github.io/tic-tac-toe/))
+[TicTacToe-Game](https://mahin-katariya.github.io/tic-tac-toe/)
 
 ## Core Logic Flow
 
